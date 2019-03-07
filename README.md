@@ -1,7 +1,4 @@
-# PixelCamp
-Habit on PixelCamp
-
-## Habit Challenge
+# Habit Challenge
     Transform a dumb light bulb into a connected/IoT/smart light bulb
 
     # How to Apply
