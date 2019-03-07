@@ -1,5 +1,6 @@
 # Habit Challenge
-    Transform a dumb light bulb into a connected/IoT/smart light bulb
+    # Goal
+        Transform a dumb light bulb into a connected/IoT/smart light bulb
 
     # How to Apply
         * Log in to **GitHub** or create an account.
