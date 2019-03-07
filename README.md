@@ -5,7 +5,7 @@
 ## How to Apply
 * Log in to **GitHub** or create an account.
 * **Fork this repository**.
-* **Duplicate** the application.md file first and rename the **new file** after your email (ex: support-at-habit-io.md)
+* **Duplicate** the [application-example-at-habit-io.md](https://github.com/habitio/PixelCamp/blob/master/application-example-at-habit-io.md) file first and rename the **new file** after your email (ex: support-at-habit-io.md)
 * Edit the **new file** and fill in each section.
 * **Do not delete the template file.**
 * When you're ready, **submit a pull request** and **comment** using your markdown file contents.
