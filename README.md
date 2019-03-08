@@ -14,9 +14,10 @@
 
 
 ## Requirements
-* Install Muzzley App (apk) on your phone or emulator: https://cdn.muzzley.com/apk/muzzley-v3.apk
+* Install [Muzzley App](https://cdn.muzzley.com/apk/muzzley-v3.apk) (apk) on your phone or emulator
 * Use our Arduino to control the Led light
 * Develop a software that will interact between the Arduino, the Muzzley App and Habit/Muzzley API
-* Follow our documentation regarding Device to Cloud integration: https://muzzleyintegrations.docs.apiary.io
 * Development must be done in Python
 * Your Arduino board must be returned with the project submittion
+* Follow our documentation regarding [Device to Cloud](https://muzzleyintegrations.docs.apiary.io/#introduction/integrate-devices/device-to-cloud) integration
+    * For this challenge prupose there's no need to do the [Device Specification](https://muzzleyintegrations.docs.apiary.io/#reference/device-specifications) part it will be provided to you, to the mail provided on your application.
