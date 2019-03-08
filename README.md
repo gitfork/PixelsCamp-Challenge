@@ -1,6 +1,6 @@
 # Habit Challenge
 ## Goal
-    Transform a dumb light bulb into a connected/IoT/smart light bulb
+    Transform a dumb light bulb into a Smart light bulb
 
 ## How to Apply
 * Log in to **GitHub** or create an account.
@@ -10,7 +10,7 @@
 * **Do not delete the template file.**
 * When you're ready, **submit a pull request** and **comment** using your markdown file contents.
 * Deadline for submitting applications is **noon, March 22nd**. After than we won't be accepting more pull requests.
-* Find a Habit member to recive your Arduino board
+* Find a Habit member on the BrightPixel Stand or Habit Doom to receive your Arduino board
 
 
 ## Requirements
