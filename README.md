@@ -1,8 +1,8 @@
-# Habit Challenge
+# Habit Challenges
 ## Goal
-    1. Create and control your own IoT device, by doing an integration of the Device with the Muzzley App.
+    Create and control your own IoT device, by doing an integration of the Device with the Muzzley App.
     OR
-    2. Create an integration of one of the available IoT devices on the Habit's Dome
+    Create an integration of one of the available IoT devices on the Habit's Dome
     
 ## How to Apply
 * Log in to **GitHub** or create an account.
