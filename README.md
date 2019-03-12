@@ -21,7 +21,7 @@
 
 ## Requirements for integration
 * Install [Muzzley App](https://cdn.muzzley.com/apk/muzzley-v3.apk) (apk) on your phone or emulator
-* Follow our documentation regarding [Device to Cloud](https://muzzleyintegrations.docs.apiary.io/#introduction/integrate-devices/device-to-cloud) integration
+* Follow our integration [documentation](https://muzzleyintegrations.docs.apiary.io) 
     * We will help you setup the [Device Specification](https://muzzleyintegrations.docs.apiary.io/#reference/device-specifications), no need to do the described configuration.
     
 ## Hardware available
