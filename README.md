@@ -1,15 +1,17 @@
 # Habit Challenges
 ## Goal
-    Control any Device with one single App!
+Control any Device with one single App!
     
-    Habit Analytics provides an API and Mobile Application that allows anyone to transform a Dumb device into a Smart Device and create automation rules between different devices.
+Habit Analytics provides an API and Mobile Application that allows anyone to transform a Dumb device into a Smart Device and create automation rules between different devices.
     
-    Create your project with our API and App, by using one of our Devices or your own!
+Create your project with our API and App, by using one of our Devices or your own!
     
-    Ask Habit for 
-    An Arduino Board to transform a Dumb LED into a Smart LED!
-    OR
-    Access to one of our Smart Devices!
+Ask Habit for:
+An Arduino Board to transform a Dumb LED into a Smart LED!
+OR
+Access to one of our Smart Devices
+OR 
+Tell us what kind for device you want to create!
     
 ## How to Apply
 * Log in to **GitHub** or create an account.
