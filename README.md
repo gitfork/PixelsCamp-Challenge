@@ -1,8 +1,13 @@
 # Habit Challenges
 ## Goal
-    Create and control your own IoT device, by doing an integration of the Device with the Muzzley App.
+    Control any Device with one single App!
+    
+    Use Habit/Muzzley's API and Muzzley App to control a Device.
+    
+    Ask Habit for 
+    An Arduino Board to transform a Dumb LED into a Smart LED!
     OR
-    Create an integration of one of the available IoT devices on the Habit's Dome
+    Access to one of our Smart Devices!
     
 ## How to Apply
 * Log in to **GitHub** or create an account.
@@ -14,7 +19,7 @@
 * Find a Habit member on the BrightPixel Stand or Habit Dome to receive an Arduino board to create an IoT device or to receive credentials for one of available IoT Devices.
 
 
-## Requirements for Device2Cloud integration
+## Requirements for integration
 * Install [Muzzley App](https://cdn.muzzley.com/apk/muzzley-v3.apk) (apk) on your phone or emulator
 * Follow our documentation regarding [Device to Cloud](https://muzzleyintegrations.docs.apiary.io/#introduction/integrate-devices/device-to-cloud) integration
     * We will help you setup the [Device Specification](https://muzzleyintegrations.docs.apiary.io/#reference/device-specifications), no need to do the described configuration.
