@@ -6,7 +6,8 @@
 * Email
 
 # What kind of integration are you doing?
-Habit Analytics has some devices available for you to try it out: arduinos (Device2Could), Lifx lights (Cloud2Cloud)
+Habit Analytics has some devices available for you to try it out: arduinos (Device2Could), Lifx lights (Cloud2Cloud).
+
 Which integration would you like to do?
 
 
