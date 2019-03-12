@@ -8,9 +8,13 @@ Create your project with our API and App, by using one of our Devices or your ow
     
 Ask Habit for:
 An Arduino Board to transform a Dumb LED into a Smart LED!
+
 OR
+
 Access to one of our Smart Devices
+
 OR 
+
 Tell us what kind for device you want to create!
     
 ## How to Apply
