@@ -25,9 +25,7 @@
     * We will help you setup the [Device Specification](https://muzzleyintegrations.docs.apiary.io/#reference/device-specifications), no need to do the described configuration.
     
 ## Hardware available
-* Use our Arduino Board to control the Led light
-* Develop a software that will interact between the Arduino, the Muzzley App and Habit/Muzzley API
-* Your Arduino board must be returned with the project submittion
+* Use our Arduino Board to control the Led light and develop a software that will interact between the Arduino, the Muzzley App and Habit/Muzzley API
 OR
 * Use one our Lifx Lights on Habit's Dome
 
