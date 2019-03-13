@@ -7,15 +7,16 @@ Habit Analytics provides an API and Mobile Application that allows anyone to tra
 Create your project with our API and App, by using one of our Devices or your own!
     
 Ask Habit for:
-An Arduino Board to transform a Dumb LED into a Smart LED!
+
+**An Arduino Board to transform a Dumb LED into a Smart LED!**
 
 OR
 
-Access to one of our Smart Devices
+**Access to one of our Smart Devices**
 
 OR 
 
-Tell us what kind for device you want to create!
+**Tell us what kind for device you want to create!**
     
 ## How to Apply
 * Log in to **GitHub** or create an account.
@@ -33,9 +34,9 @@ Tell us what kind for device you want to create!
     * We will help you setup the [Device Specification](https://muzzleyintegrations.docs.apiary.io/#reference/device-specifications), no need to do the described configuration.
     
 ## Hardware available
-Use our Arduino Board to control the Led light and develop a software that will interact between the Arduino, the Muzzley App and Habit/Muzzley API
+Use our Arduino Board to transform a dumb Led light, into a Smart Led Light. You would need to develop the software that will interact with the Arduino, the Muzzley App and Habit/Muzzley API (is means to do a [Device to Cloud integration](https://muzzleyintegrations.docs.apiary.io/#introduction/integrate-devices/device-to-cloud))
 
 OR
 
-Use one our Lifx Lights on Habit's Dome
+Use one our Lifx Lights on Habit's Dome. You would need to develop the software that would integract with Lifx API and Habit/Muzzley API (it means to do a [Could to Could integration](https://muzzleyintegrations.docs.apiary.io/#introduction/integrate-devices/cloud-to-cloud))
 
