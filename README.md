@@ -1,9 +1,12 @@
 # Habit Challenge
-## Goal
-Control any Device with one single App!
-    
+
+## Context
 Habit Analytics provides an API and Mobile Application that allows anyone to transform a Dumb device into a Smart Device and create automation rules between different devices.
-    
+
+
+## Challenge
+Control any Device with one single App!
+
 Create your project with our API and App, by using one of our Devices or your own!
     
 Ask Habit for:
