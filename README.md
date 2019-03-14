@@ -1,25 +1,18 @@
 # Habit Challenge
 
 ## Context
-Habit Analytics provides an API and Mobile Application that allows anyone to transform a Dumb device into a Smart Device and create automation rules between different devices.
+Habit Analytics provides an API and Mobile Application that allows anyone to transform a Dumb device into a Smart Device and create use cases between different devices or event providers.
 
 
 ## Challenge
 Control any Device with one single App!
 
-Create your project with our API and App, by using one of our Devices or your own!
-    
-Ask Habit for:
+Imagine an usecase that you would like to reach, creating interactions between IoT devices or external APIs.
 
-**An Arduino Board to transform a Dumb LED into a Smart LED!**
-
-OR
-
-**Access to one of our Smart Devices**
-
-OR 
-
-**Tell us what kind for device you want to create!**
+Some examples:
+- Transform your own Dumb device into a Smart Device
+- Integrate with a weather API and change our Dome lights (LIFX) accordinatly
+- Create a Smart Device with our Hardware (Arduino/RasperryPi/Boards/Lights)
     
 ## How to Apply
 * Log in to **GitHub** or create an account.
@@ -31,15 +24,12 @@ OR
 * Find a Habit member on the BrightPixel Stand or Habit Dome to receive an Arduino board to create an IoT device or to receive credentials for one of available IoT Devices.
 
 
-## Requirements for integration
+## Requirements for integrations
 * Install [Muzzley App](https://cdn.muzzley.com/apk/muzzley-v3.apk) (apk) on your phone or emulator
 * Follow our integration [documentation](https://muzzleyintegrations.docs.apiary.io) 
     * We will help you setup the [Device Specification](https://muzzleyintegrations.docs.apiary.io/#reference/device-specifications), no need to do the described configuration.
     
 ## Hardware available
-Use our Arduino Board to transform a dumb Led light, into a Smart Led Light. You would need to develop the software that will interact with the Arduino, the Muzzley App and Habit/Muzzley API (is means to do a [Device to Cloud integration](https://muzzleyintegrations.docs.apiary.io/#introduction/integrate-devices/device-to-cloud))
-
-OR
-
-Use one our Lifx Lights on Habit's Dome. You would need to develop the software that would integract with Lifx API and Habit/Muzzley API (it means to do a [Could to Could integration](https://muzzleyintegrations.docs.apiary.io/#introduction/integrate-devices/cloud-to-cloud))
+We will have several arduinos, rasperry's and boards, that you can use to create your project.
+You may also use one our Lifx Lights on Habit's Dome.
 
