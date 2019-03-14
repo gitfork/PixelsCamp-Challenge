@@ -1,4 +1,4 @@
-# Habit Challenges
+# Habit Challenge
 ## Goal
 Control any Device with one single App!
     
