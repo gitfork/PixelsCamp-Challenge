@@ -30,6 +30,6 @@ Some examples:
     * We will help you setup the [Device Specification](https://muzzleyintegrations.docs.apiary.io/#reference/device-specifications), no need to do the described configuration.
     
 ## Hardware available
-We will have several arduinos, rasperry's and boards, that you can use to create your project.
+We will have several arduinos, raspberry's and boards, that you can use to create your project.
 You may also use one our Lifx Lights on Habit's Dome.
 
