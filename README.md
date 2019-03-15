@@ -1,5 +1,7 @@
 # Habit Challenge
 
+![Habit](https://github.com/habitio/PixelsCamp-Challenge/blob/master/illustration.png)
+
 ## Context
 Habit Analytics provides an API and Mobile Application that allows anyone to transform a Dumb device into a Smart Device and create use cases between different devices or event providers.
 
