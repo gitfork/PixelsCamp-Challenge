@@ -9,7 +9,7 @@ Habit Analytics provides an API and Mobile Application that allows anyone to tra
 ## Challenge
 Control any Device with one single App!
 
-Imagine an usecase that you would like to reach, creating interactions between IoT devices or external APIs.
+Imagine an usecase that you would like to reach, creating interactions between IoT devices or external APIs or even your mobile.
 
 Some examples:
 - Transform your own Dumb device into a Smart Device
@@ -23,13 +23,19 @@ Some examples:
 * Edit the **new file** and fill in each section.
 * **Do not delete the template file.**
 * When you're ready, **submit a pull request** and **comment** using your markdown file contents.
-* Find a Habit member on the BrightPixel Stand or Habit Dome to receive an Arduino board to create an IoT device or to receive credentials for one of available IoT Devices.
+* Find a Habit member on the BrightPixel Stand or Habit Dome to receive some hardware if necessary or for any question that you may have.
 
 
 ## Requirements for integrations
 * Install [Muzzley App](https://cdn.muzzley.com/apk/muzzley-v3.apk) (apk) on your phone or emulator
 * Follow our integration [documentation](https://muzzleyintegrations.docs.apiary.io) 
-    * We will help you setup the [Device Specification](https://muzzleyintegrations.docs.apiary.io/#reference/device-specifications), no need to do the described configuration.
+    * We have already created a generic [specification of a Device](https://muzzleyintegrations.docs.apiary.io/#reference/device-specifications) for you to use with your project:
+            * 1 compoment with the following properties:
+                * 1 property status (true/false)    
+                * 4 properties for strings (property1, property2, property3, property4)
+                * 1 property image (url)
+                * 1 property orientation (up/down/left/right)
+            
     
 ## Hardware available
 We will have several arduinos, raspberry's and boards, that you can use to create your project.
