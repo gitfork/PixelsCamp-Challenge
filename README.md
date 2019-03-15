@@ -14,7 +14,7 @@ Imagine an usecase that you would like to reach, creating interactions between I
 Some examples:
 - Transform your own Dumb device into a Smart Device
 - Integrate with a weather API and change our Dome lights (LIFX) accordinatly
-- Create a Smart Device with our Hardware (Arduino/RasperryPi/Boards/Lights)
+- Create a Smart Device with our Hardware (Arduino/RasperryPi/Boards)
     
 ## How to Apply
 * Log in to **GitHub** or create an account.
