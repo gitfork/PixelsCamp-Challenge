@@ -1,4 +1,6 @@
-# Habit Challenge
+**Habit Challenge**
+
+# Be an IoT Wizard with Habit Analytics
 
 ![Habit](https://github.com/habitio/PixelsCamp-Challenge/blob/master/illustration.png)
 
