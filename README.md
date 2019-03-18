@@ -50,8 +50,8 @@ Show us your best idea and our team will be onsite to help you!
 ## Requirements for integrations
 * Install [Muzzley App](https://cdn.muzzley.com/apk/muzzley-v3-qa.apk) (apk) on your phone or emulator or ask us for beta tester access to our iOS Application
 * Our API uses the OAuth2.0 protocol for authentication, so you will need a set of credentials. Find us on the event or get in touch to [pixelscamp@habit.io](pixelscamp@habit.io) to get yours!
-* Follow our integration [documentation](https://muzzleyintegrations.docs.apiary.io) 
-    * We have already created a generic [specification of a Device](https://muzzleyintegrations.docs.apiary.io/#reference/device-specifications) for you to use with your project:
+* Follow our integration [documentation](https://habitio.docs.apiary.io) 
+    * We have already created a generic [specification of a Device](https://habitio.docs.apiary.io/#introduction/meaningful-communication-(specification)) for you to use with your project:
     
             * 1 compoment with the following properties:
             
@@ -63,7 +63,7 @@ Show us your best idea and our team will be onsite to help you!
                 
                 * 1 property orientation (up/down/left/right)
                 
-    * And we have created a generic interface that will allow you to control your device. It will appear on your Muzzley app as soon as you manage to pair your device with your user account, following the steps described [here](https://muzzleyintegrations.docs.apiary.io/#reference/implementing-webhooks).
+    * And we have created a generic interface that will allow you to control your device. It will appear on your Muzzley app as soon as you manage to pair your device with your user account, following the steps described [here](https://habitio.docs.apiary.io/#introduction/integrate-devices).
             
     
 ## Hardware available
