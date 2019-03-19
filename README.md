@@ -48,7 +48,7 @@ Show us your best idea and our team will be onsite to help you!
 
 
 ## Requirements for integrations
-* Install [Muzzley App](https://cdn.muzzley.com/apk/muzzley-v3-qa.apk) (apk) on your phone or emulator or ask us for beta tester access to our iOS Application
+* Install [Muzzley Android App](https://cdn.muzzley.com/apk/muzzley-v3-qa.apk) or the [Muzzley iOS App](https://testflight.apple.com/join/Hkp6sYjM) on your phone.
 * Our API uses the OAuth2.0 protocol for authentication, so you will need a set of credentials. Find us on the event or get in touch to [pixelscamp@habit.io](pixelscamp@habit.io) to get yours!
 * Follow our integration [documentation](https://habitio.docs.apiary.io) 
     * We have already created a generic [specification of a Device](https://habitio.docs.apiary.io/#introduction/meaningful-communication-(specification)) for you to use with your project:
